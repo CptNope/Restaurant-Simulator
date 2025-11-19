@@ -1,7 +1,7 @@
 {
   "name": "Restaurant Sim Trainer",
   "short_name": "RestaurantSim",
-  "start_url": ".",
+  "start_url": "/Restaurant-Simulator/",
   "display": "standalone",
   "background_color": "#111111",
   "theme_color": "#111111",
